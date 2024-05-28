@@ -7,9 +7,13 @@ A repository containing code samples for dotnet projects.
 TODO
 * Functional programming
     * Monads
+    * CoMonads(Continuations)
     * Tracks(Rails)
     * Function Composition
     * Recursion
     * Reactive Programming(Rx)
     * Promises/Futures
     * Observability
+    * Rx (Reactive Extensions for .NET)
+        * Subject, ReplaySubject
+        * Observable
